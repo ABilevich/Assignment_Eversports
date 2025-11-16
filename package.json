@@ -5,8 +5,7 @@
     "applications/*"
   ],
   "dependencies": {
-    "prettier": "^3.3.3",
-    "radix-ui": "^1.4.3"
+    "prettier": "^3.3.3"
   },
   "devDependencies": {
     "husky": "^9.1.4",
