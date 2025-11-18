@@ -53,6 +53,7 @@ const config: Config = {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
+        teal: { '500': '#21A696' }, // Redefined teal 500 to match the figma specs (since its the primary color)
         chart: {
           '1': 'hsl(var(--chart-1))',
           '2': 'hsl(var(--chart-2))',
